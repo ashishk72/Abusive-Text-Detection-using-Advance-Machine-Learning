@@ -1,2 +1,5 @@
-# -Abusive-Text-Detection-from-Social-Media-using-Advance-Machine-Learning
+# Abusive-Text-Detection-using-Advance-Machine-Learning
 This project focuses on  developing an effective solution for detecting and blocking hate-speech content from social media.  This project uses advanced machine learning techniques to scan and identify hate  speech, and insulting comments from social media posts. 
+The system incorporates natural language processing methodologies to address the complexity of language patterns and context in social media text. The deployment stage was the process of collecting and preprocessing a diverse dataset from social media sites and then optimizing the model for high accuracy and low latency. 
+In the first phase, we have tested several algorithms including Support Vector Machines (SVM), Random Forests, and more complex deep learning models such as Long Short-Term Memory (LSTM) networks. The best model has superior performance with high precision and recall scores.  
+In the second phase, the trained model will be implemented as a Chrome extension to identify hate speech. The extension will act as a browser-level filter so that end-users can moderate their social media activity and create a safer online environment. The extension is using a light architecture to ensure seamless integration and low computational overhead on end-users.
